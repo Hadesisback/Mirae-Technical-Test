@@ -1,3 +1,6 @@
 [submodule "Soal1_StockAPI"]
 	path = Soal1_StockAPI
 	url = https://github.com/Hadesisback/Soal1_StockAPI.git
+[submodule "Soal2_Scraper"]
+	path = Soal2_Scraper
+	url = https://github.com/Hadesisback/Soal2_Scraper.git
